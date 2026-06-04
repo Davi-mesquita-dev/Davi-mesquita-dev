@@ -5,16 +5,18 @@ I'm from Vacaria, RS, Brazil, and I'm currently a student at **IFRS Campus Vacar
 ---
 
 ### 🚀 About Me
-- 🎓 Multimedia student at IFRS.
+- 🎓 Multimedia student at IFRS (2/4).
 - 🎯 **Currently studying hard to apply for a programming/computer science scholarship at IF!**
 - 💻 Focused on learning Back-end logic and web architecture.
 - 🛠️ Improving my skills daily in HTML5, CSS3, Git, and Python.
 
 ---
 
-### 🌐 My Online Portfolio
-You can check out my first responsive portfolio project running live in the browser:
-# [👉 Click here to access my Online Portfolio 👈](https://davi-mesquita-dev.github.io/Meu-primeiro-portif-lio/)
+📬 **How to reach me:**
+- 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvzin.sm/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisilvamesquita2128@gmail.com)
+
 
 ---
 
@@ -39,5 +41,6 @@ Here are the tools and languages I work with and study daily:
 
 ---
 
-📬 **How to reach me:**
-- **GitHub:** [Davi-mesquita-dev](https://github.com/Davi-mesquita-dev)
+### 🌐 My Online Portfolio
+You can check out my first responsive portfolio project running live in the browser:
+# [👉 Click here to access my Online Portfolio 👈](https://davi-mesquita-dev.github.io/Meu-primeiro-portif-lio/)
