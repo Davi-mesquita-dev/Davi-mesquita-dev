@@ -9,7 +9,6 @@ I'm from Vacaria, RS, Brazil, and I'm currently a student at **IFRS Campus Vacar
 - 🎯 **Currently studying hard to apply for a programming/computer science scholarship at IF!**
 - 💻 Focused on learning Back-end logic and web architecture.
 - 🛠️ Improving my skills daily in HTML5, CSS3, Git, and Python.
-- ⚡ Current project: Planning to recreate "Git" using Python to master logic and version control concepts.
 
 ---
 
